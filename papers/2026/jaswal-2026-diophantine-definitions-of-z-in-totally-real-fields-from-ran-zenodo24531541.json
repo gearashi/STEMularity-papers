@@ -1,0 +1,18 @@
+{
+ "citation": "Manvir Jaswal, \"Diophantine definitions of Z in totally real fields from rank-one elliptic curves\", Zenodo 24531541 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24531541 record: cc-by-4.0",
+  "Zenodo 24531541 publishes md5 list (1 files)"
+ ],
+ "authors": [
+  "Manvir",
+  "Jaswal"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "7ec52d202de58fcc39c76cf7b59dcf2d25cf6bc9606321e1df3f34f06936c8e9",
+ "source_note": "https://zenodo.org/api/records/24531541/files/jaswal-z-totally-real.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

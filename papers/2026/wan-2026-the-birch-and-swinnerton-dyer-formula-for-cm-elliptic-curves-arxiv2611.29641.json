@@ -1,0 +1,20 @@
+{
+ "citation": "Xin Wan, Zerui Xiang and Ruichen Xu, \"The Birch and Swinnerton-Dyer formula for CM elliptic curves of analytic rank one\", arXiv:2611.29641 (v1, 22 Nov 2026)",
+ "licence": "CC BY-NC-SA",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2611.29641: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+ ],
+ "authors": [
+  "Xin",
+  "Wan",
+  "Zerui",
+  "Xiang",
+  "Ruichen"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY-NC-SA) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "1e75bd1f6cb54a234357fac81c36b9f093b3e304cee19358805fba7dfdc6d059",
+ "source_note": "https://arxiv.org/pdf/2611.29641v1",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

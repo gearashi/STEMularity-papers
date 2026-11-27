@@ -1,0 +1,18 @@
+{
+ "citation": "Jianfei Lin, \"Auditing the Alpöge–Claude Riemann Hypothesis Formalization: A Five-Gate Adversarial Audit Funnel for Ultra-Large-Scale Proofs\", Zenodo 24518377 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24518377 record: cc-by-4.0",
+  "Zenodo 24518377 publishes md5 list (1 files)"
+ ],
+ "authors": [
+  "Jianfei",
+  "Lin"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "2a710d3c907c4c7375ae4d826065e0129729d4599a40a13634479b030a37caf5",
+ "source_note": "https://zenodo.org/api/records/24518377/files/FGAAF_english.tex%20(2).pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

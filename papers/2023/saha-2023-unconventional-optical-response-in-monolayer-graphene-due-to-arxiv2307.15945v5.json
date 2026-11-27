@@ -1,0 +1,21 @@
+{
+ "citation": "Palash Saha, Bala Murali Krishna Mariserla, \"Unconventional optical response in monolayer graphene due to dominant intraband scattering\", arXiv:2307.15945v5",
+ "licence": "CC BY-NC-ND",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2307.15945: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+ ],
+ "authors": [
+  "Palash",
+  "Saha",
+  "Bala",
+  "Murali",
+  "Krishna",
+  "Mariserla"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY-NC-ND) and its authors' attribution; the repository's CC BY 4.0 does not cover it. It is stored unchanged, byte for byte.",
+ "sha256": "ce736f2916cd06e92f149d0b64a87dc7784411ba79afcdf53a3db52e55808f33",
+ "source_note": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2307/2307.15945v5.pdf",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

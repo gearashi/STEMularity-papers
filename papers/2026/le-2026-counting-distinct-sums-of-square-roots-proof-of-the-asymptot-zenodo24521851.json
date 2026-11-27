@@ -1,0 +1,18 @@
+{
+ "citation": "Duy Phuc Le, \"Counting Distinct Sums of Square Roots: Proof of the Asymptotic Conjecture in OEIS A397045\", Zenodo 24521851 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24521851 record: cc-by-4.0",
+  "Zenodo 24521851 publishes md5 list (4 files)"
+ ],
+ "authors": [
+  "Duy",
+  "Phuc"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "0e68290470ebb7ca604d815d0a0ba2bb2000fc774443c0e70d79111b7acfb2e3",
+ "source_note": "https://zenodo.org/api/records/24521851/files/paper.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

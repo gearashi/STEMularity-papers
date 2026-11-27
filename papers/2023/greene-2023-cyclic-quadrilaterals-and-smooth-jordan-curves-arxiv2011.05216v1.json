@@ -1,0 +1,16 @@
+{
+ "citation": "J. E. Greene, A. Lobb, Cyclic quadrilaterals and smooth Jordan curves, Invent. Math. 234(3) (2023) 931-935",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2011.05216: https://creativecommons.org/licenses/by/4.0/legalcode"
+ ],
+ "authors": [
+  "Greene"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "d00827fca3564099980efa83174cb501c4b295b8cc350d79251e821f4e105c32",
+ "source_note": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2011/2011.05216v1.pdf",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

@@ -1,0 +1,20 @@
+{
+ "citation": "Muse (an AI system built by Meta) and Richard Vigslist, \"The Certificate and the Proof: An Address-Level Audit of the Claimed Lean Proof of the Riemann Hypothesis\", Zenodo 24540196 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24540196 record: cc-by-4.0",
+  "Zenodo 24540196 publishes md5 list (1 files)"
+ ],
+ "authors": [
+  "Muse",
+  "Meta",
+  "Richard",
+  "Vigslist"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "fc5e4eb94ec18ecbe6c565cbcdbaa53120c8143543287bac3de27dd2d7fadf47",
+ "source_note": "https://zenodo.org/api/records/24540196/files/Muse-The-Certificate-and-the-Proof.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

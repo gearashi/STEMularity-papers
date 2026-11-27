@@ -1,0 +1,18 @@
+{
+ "citation": "Adam Henriksson, \"A prime-deficit criterion for the composite sum in Erdos problem 462\", Zenodo 24516865 (v1, 24 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24516865 record: cc-by-4.0",
+  "Zenodo 24516865 publishes md5 list (2 files)"
+ ],
+ "authors": [
+  "Adam",
+  "Henriksson"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "3b58a2bf48ad5e255cf273c7c3af2b29da9246fd44ca43b185a6bb490c9dd6a8",
+ "source_note": "https://zenodo.org/api/records/24516865/files/Erdos462-Prime-Deficit-Criterion.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": true
+}

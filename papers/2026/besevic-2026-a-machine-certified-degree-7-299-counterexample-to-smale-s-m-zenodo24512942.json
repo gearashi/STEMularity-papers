@@ -1,0 +1,19 @@
+{
+ "citation": "Ivan Besevic, \"A Machine-Certified Degree-7,299 Counterexample to Smale's Mean Value Conjecture\", Zenodo 24512942 (v1.0.0, 24 Nov 2026)",
+ "licence": "MIT",
+ "licence_evidence": [
+  "Zenodo 24512942 record: mit-license",
+  "Zenodo 24512942 publishes md5 list (2 files)",
+  "licence named in the file: MIT"
+ ],
+ "authors": [
+  "Ivan",
+  "Besevic"
+ ],
+ "licence_note": "This file keeps its own licence (MIT) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "32cc24ee507c822f62f9f53a60ba3381d0d43652ba308cacb4fcf4bfe3ea8743",
+ "source_note": "https://zenodo.org/api/records/24512942/files/Smale_Degree_7299_Counterexample.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

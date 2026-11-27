@@ -1,0 +1,18 @@
+{
+ "citation": "Manuel Menéndez-González, \"Independent Formal Verification, Epistemic Spine Cartography, and Comparative Auditing of Riemann Hypothesis Proof Claims\", Zenodo 24586394 (v1.4, 27 Nov 2026; newer version of Zenodo 24510649)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24586394 record: cc-by-4.0",
+  "Zenodo 24586394 publishes md5 list (2 files)"
+ ],
+ "authors": [
+  "Manuel",
+  "Menéndez-González"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "8808404affc534a586896905fa6a3d3b92a23642353dc15641a772c372e4dcde",
+ "source_note": "https://zenodo.org/api/records/24586394/files/preprint_rh_grh_epistemic_audit_v1.4.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

@@ -1,0 +1,18 @@
+{
+ "citation": "Duy Phuc Le, \"Answers to Seven Open Questions in the OEIS: Last Terms of Four Greedy Digit Sequences (A364274, A365197, A342383, A336285), Completeness of A134320, and Two Smaller Questions (A110194, A103850)\", Zenodo 24529605 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24529605 record: cc-by-4.0",
+  "Zenodo 24529605 publishes md5 list (18 files)"
+ ],
+ "authors": [
+  "Duy",
+  "Phuc"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "cc7da64b3f113ce2d817fc7c08f66d57762ae407635cb2756ec51468830becaa",
+ "source_note": "https://zenodo.org/api/records/24529605/files/paper.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

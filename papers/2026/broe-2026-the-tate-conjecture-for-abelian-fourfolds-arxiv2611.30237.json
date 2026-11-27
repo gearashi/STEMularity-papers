@@ -1,0 +1,19 @@
+{
+ "citation": "Matt Broe and Ruofan Jiang, \"The Tate conjecture for abelian fourfolds\", arXiv:2611.30237 (v1, 23 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2611.30237: https://creativecommons.org/licenses/by/4.0/legalcode"
+ ],
+ "authors": [
+  "Matt",
+  "Broe",
+  "Ruofan",
+  "Jiang"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "2df366eb08319484d5c912f5f868715edc290f28cfff8b8ce12ab7d5bac33b8a",
+ "source_note": "https://arxiv.org/pdf/2611.30237v1",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

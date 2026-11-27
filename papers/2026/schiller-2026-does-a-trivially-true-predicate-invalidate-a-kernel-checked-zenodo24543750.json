@@ -1,0 +1,18 @@
+{
+ "citation": "Eryk Schiller, \"Does a Trivially True Predicate Invalidate a Kernel-Checked Proof? An Independent Build and Dependency Audit of the Alpöge Lean Archive for the Riemann Hypothesis\", Zenodo 24543750 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24543750 record: cc-by-4.0",
+  "Zenodo 24543750 publishes md5 list (1 files)"
+ ],
+ "authors": [
+  "Eryk",
+  "Schiller"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "a8c4428bd1030921ee769dac82ef0dbf8312184fa49df4b30419ea6e50d0756d",
+ "source_note": "https://zenodo.org/api/records/24543750/files/main.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}
