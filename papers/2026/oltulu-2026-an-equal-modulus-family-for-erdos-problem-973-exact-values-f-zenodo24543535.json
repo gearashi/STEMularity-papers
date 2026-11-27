@@ -1,0 +1,19 @@
+{
+ "citation": "Mehmet Akif Oltulu, \"An equal-modulus family for Erdős Problem #973: exact values for n ≤ 6, an upper bound for every n, and the limit constant ε∞ = 0.07725484…\", Zenodo 24543535 (version 1.0, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24543535 record: cc-by-4.0",
+  "Zenodo 24543535 publishes md5 list (2 files)"
+ ],
+ "authors": [
+  "Mehmet",
+  "Akif",
+  "Oltulu"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "0d4e9de82d7126d361a08f649b808e5cbbaf060ef0979aa7536662daade7ff03",
+ "source_note": "https://zenodo.org/api/records/24543535/files/TURAN973_Erdos973_TR_v1.0.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

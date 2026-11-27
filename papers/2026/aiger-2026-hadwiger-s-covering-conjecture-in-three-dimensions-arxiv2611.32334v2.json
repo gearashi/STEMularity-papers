@@ -1,0 +1,21 @@
+{
+ "citation": "Dror Aiger, Sariel Har-Peled, Goran Žužić, \"Hadwiger's Covering Conjecture in Three Dimensions\", arXiv:2611.32334v2 (27 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2611.32334: https://creativecommons.org/licenses/by/4.0/legalcode"
+ ],
+ "authors": [
+  "Dror",
+  "Aiger",
+  "Sariel",
+  "Har-Peled",
+  "Goran",
+  "Žužić"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "22c0f626d9a786b92eaaed2d3cf8a5d174347cce72e81898181b683e218bd219",
+ "source_note": "https://arxiv.org/pdf/2611.32334v2",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

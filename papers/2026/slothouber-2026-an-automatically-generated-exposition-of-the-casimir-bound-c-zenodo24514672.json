@@ -1,0 +1,18 @@
+{
+ "citation": "Louis P. Slothouber, \"An automatically generated exposition of the Casimir bound casBound_holds in Alpöge's Lean proof of the Riemann hypothesis\", Zenodo 24514672 (version 1, 24 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24514672 record: cc-by-4.0",
+  "Zenodo 24514672 publishes md5 list (2 files)"
+ ],
+ "authors": [
+  "Louis",
+  "Slothouber"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "1d92bf9dae28031a2f9e9f4f8ee2434eb4b6944cd1d779769fc9f5617f981211",
+ "source_note": "https://zenodo.org/api/records/24514672/files/paper.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

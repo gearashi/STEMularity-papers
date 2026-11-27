@@ -1,0 +1,18 @@
+{
+ "citation": "Frédéric Gaudin, \"A Kernel-Verified Compendium of Digit-Multiset Orbit Classifications in Lean 4 (Thirteen OEIS Entries, Including New Results on A214301 and A257796)\", Zenodo 24589200 (v1.0.0, 27 Nov 2026; newer version of Zenodo 24506363)",
+ "licence": "Apache-2.0",
+ "licence_evidence": [
+  "Zenodo 24589200 record: apache2.0",
+  "Zenodo 24589200 publishes md5 list (86 files)"
+ ],
+ "authors": [
+  "Frédéric",
+  "Gaudin"
+ ],
+ "licence_note": "This file keeps its own licence (Apache-2.0) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "26dd9c38968e08451ec9003913789a11632ddf87b7c66f585b6ee213aa1aabfe",
+ "source_note": "https://zenodo.org/api/records/24589200/files/PEARL-MULTISET-paper.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

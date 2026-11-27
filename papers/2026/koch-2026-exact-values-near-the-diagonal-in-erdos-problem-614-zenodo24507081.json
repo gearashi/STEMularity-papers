@@ -1,0 +1,19 @@
+{
+ "citation": "Bennet Luis Koch, \"Exact Values Near the Diagonal in Erdős Problem 614\", Zenodo 24507081 (version 1.0, 24 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24507081 record: cc-by-4.0",
+  "Zenodo 24507081 publishes md5 list (2 files)"
+ ],
+ "authors": [
+  "Bennet",
+  "Luis",
+  "Koch"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "7971c173b5a4a012316b2c0f362ae5214e25fe1b54c99b08465b0e375ca3a833",
+ "source_note": "https://zenodo.org/api/records/24507081/files/Erdos_614_Near_Diagonal.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

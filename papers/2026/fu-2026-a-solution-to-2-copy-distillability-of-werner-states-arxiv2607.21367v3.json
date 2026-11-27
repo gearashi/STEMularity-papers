@@ -1,0 +1,14 @@
+{
+ "citation": "J. Fu, L. Gao, S.-J. Park, A solution to 2-copy distillability of Werner states, arXiv:2607.21367 (2026)",
+ "licence": "CC0",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2607.21367: https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+ ],
+ "authors": [],
+ "licence_note": "This file keeps its own licence (CC0) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "25a68444b2ece33a600f352a42386375dbbaf79b66496f5afbd9cac3a1f57de6",
+ "source_note": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2607/2607.21367v3.pdf",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

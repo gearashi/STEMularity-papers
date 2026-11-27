@@ -1,0 +1,18 @@
+{
+ "citation": "Stylianos Charalambides, \"A degree-11,659 counterexample to Smale's mean value conjecture\", Zenodo 24512560 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24512560 record: cc-by-4.0",
+  "Zenodo 24512560 publishes md5 list (2 files)"
+ ],
+ "authors": [
+  "Stylianos",
+  "Charalambides"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "71c02f8c593e7acccef17fdf6d6fe5dcb64580bd25bd089c5abd834779238525",
+ "source_note": "https://zenodo.org/api/records/24512560/files/Charalambides-Smale-Counterexample-11659.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

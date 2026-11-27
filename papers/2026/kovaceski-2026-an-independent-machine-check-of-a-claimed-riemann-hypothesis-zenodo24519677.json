@@ -1,0 +1,19 @@
+{
+ "citation": "Alex (Aco) Kovaceski, \"An independent machine check of a claimed Riemann Hypothesis proof\", Zenodo 24519677 (v1, 25 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24519677 record: cc-by-4.0",
+  "Zenodo 24519677 publishes md5 list (1 files)"
+ ],
+ "authors": [
+  "Alex",
+  "Aco",
+  "Kovaceski"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "61543109c78a25486b8406a322a4bd268a8b45269a8ae6b528c77a856d369216",
+ "source_note": "https://zenodo.org/api/records/24519677/files/note.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

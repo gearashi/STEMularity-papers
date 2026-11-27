@@ -1,0 +1,18 @@
+{
+ "citation": "Frédéric Gaudin, \"Exact Zero-Sets and Repunit Obstructions for Digit-Restricted Multiples in the OEIS (A113572, A113573, A342992, A110732, A062400, A201060) - Preprint and Lean 4 Verification Archive\", Zenodo 24589419 (v1.0.0, 27 Nov 2026; newer version of Zenodo 24506298)",
+ "licence": "Apache-2.0",
+ "licence_evidence": [
+  "Zenodo 24589419 record: apache2.0",
+  "Zenodo 24589419 publishes md5 list (61 files)"
+ ],
+ "authors": [
+  "Frédéric",
+  "Gaudin"
+ ],
+ "licence_note": "This file keeps its own licence (Apache-2.0) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "d90fa808d7910b9051cf2cc34ecb35b98ba4aa661a376e53de3d711bde216789",
+ "source_note": "https://zenodo.org/api/records/24589419/files/A113572-paper.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

@@ -1,0 +1,18 @@
+{
+ "citation": "S. Höreth, P. Pongrac, J. T. van Elteren, et al., \"Arabidopsis halleri shows hyperbioindicator behaviour for Pb and leaf Pb accumulation spatially separated from Zn\", New Phytol. (2020)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "licence named in the file: CC BY"
+ ],
+ "authors": [
+  "Höreth",
+  "Pongrac",
+  "Elteren"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "5a762f6dd5295c45d307eae22041340f871a0cf7155ac4afdfbc22c047df147a",
+ "source_note": "https://epub.uni-bayreuth.de/id/eprint/4935/1/nph.16373.pdf",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

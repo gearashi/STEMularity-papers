@@ -1,0 +1,17 @@
+{
+ "citation": "Yunhao Sun, \"The Tate Conjecture in Positive Characteristic\", arXiv:2611.28178 (v1, 20 Nov 2026)",
+ "licence": "CC BY-SA",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2611.28178: https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+ ],
+ "authors": [
+  "Yunhao",
+  "Sun"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY-SA) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "6ff924d59a57cd57b70775f3db2d6921ce7db61cc9c58c126d901f601a379a4f",
+ "source_note": "https://arxiv.org/pdf/2611.28178",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

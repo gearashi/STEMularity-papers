@@ -1,0 +1,17 @@
+{
+ "citation": "P. Costa Rico, M. M. Wolf, Partial trace relations beyond normal matrices, arXiv:2507.18278 (2025)",
+ "licence": "CC BY-NC-ND",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2507.18278: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+ ],
+ "authors": [
+  "Costa",
+  "Rico"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY-NC-ND) and its authors' attribution; the repository's CC BY 4.0 does not cover it. It is stored unchanged, byte for byte.",
+ "sha256": "bd5ca1f9dc3bf9f7d869742a95c70439ac57d7315b4c17d9223e34dcf54fc9bc",
+ "source_note": "https://storage.googleapis.com/arxiv-dataset/arxiv/arxiv/pdf/2507/2507.18278v1.pdf",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

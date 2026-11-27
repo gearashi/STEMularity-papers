@@ -1,0 +1,18 @@
+{
+ "citation": "Tristen Pierson, \"What the Alpöge formalization proves, and what it does not contain\", Zenodo 24590764 (v3, 27 Nov 2026; newer version of Zenodo 24510291)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "Zenodo 24590764 record: cc-by-4.0",
+  "Zenodo 24590764 publishes md5 list (2 files)"
+ ],
+ "authors": [
+  "Tristen",
+  "Pierson"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "f2bcc07bdee4654eb75fa84c9ce29b83bb44f1c6c91936ed0e22eb0b26f46751",
+ "source_note": "https://zenodo.org/api/records/24590764/files/riemann-hypothesis-alpoge-formalization-v3.pdf/content",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

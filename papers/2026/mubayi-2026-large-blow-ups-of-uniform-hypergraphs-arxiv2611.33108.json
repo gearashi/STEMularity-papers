@@ -1,0 +1,17 @@
+{
+ "citation": "Dhruv Mubayi, \"Large blow-ups of uniform hypergraphs\", arXiv:2611.33108 (v1, 24 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2611.33108: https://creativecommons.org/licenses/by/4.0/legalcode"
+ ],
+ "authors": [
+  "Dhruv",
+  "Mubayi"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "1dc7a28fa892f894fd423e88ce4313bf84df09a3fcd516b8b16f3de2605bdf86",
+ "source_note": "https://arxiv.org/pdf/2611.33108v1",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}

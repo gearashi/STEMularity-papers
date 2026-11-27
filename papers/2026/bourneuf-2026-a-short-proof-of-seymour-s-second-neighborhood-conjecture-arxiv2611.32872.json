@@ -1,0 +1,23 @@
+{
+ "citation": "Romain Bourneuf, Pierre Charbit, Samuel Coulomb, Stéphan Thomassé et al. (11 authors), \"A short proof of Seymour's Second Neighborhood Conjecture\", arXiv:2611.32872 (v1, 24 Nov 2026)",
+ "licence": "CC BY",
+ "licence_evidence": [
+  "DataCite 10.48550/arXiv.2611.32872: https://creativecommons.org/licenses/by/4.0/legalcode"
+ ],
+ "authors": [
+  "Romain",
+  "Bourneuf",
+  "Pierre",
+  "Charbit",
+  "Samuel",
+  "Coulomb",
+  "Stéphan",
+  "Thomassé"
+ ],
+ "licence_note": "This file keeps its own licence (CC BY) and its authors' attribution; the repository's CC BY 4.0 does not cover it.",
+ "sha256": "36777e52cf6572130d3ece422df3dd54487e164d6103b7069e9051c95f9bcd26",
+ "source_note": "https://arxiv.org/pdf/2611.32872v1",
+ "sent_by": "fetched automatically",
+ "added": "2026-11-27",
+ "sanitized": false
+}
